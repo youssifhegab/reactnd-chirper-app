@@ -5,6 +5,6 @@ the project is about a small social media twitter app that lets you to tweet and
 -----------------------------------------------------------------------------------------
 steps to begin the coding
 
-1.npm install
+1. npm install
 
-2.npm start
+2. npm start
